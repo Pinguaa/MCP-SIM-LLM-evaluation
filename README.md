@@ -1,8 +1,6 @@
 # MCP-SIM-LLM-evaluation
 
-Re-implementazione del framework multi-agente MCP-SIM per la generazione
-automatica di codici termo-fluidodinamici tramite LLM, sviluppata come
-parte della tesi triennale in Ingegneria Meccanica al Politecnico di Torino.
+*Valutazione dell'uso di Large Language Models per la generazione di codici termo-fluidodinamici*
 
 ## Modelli valutati
 - Gemini 3.5 Flash
@@ -16,6 +14,7 @@ parte della tesi triennale in Ingegneria Meccanica al Politecnico di Torino.
 - Miniforge3 / conda
 
 ## Struttura
+```
 MCP-SIM-LLM-evaluation/
 ├── tasks/
 ├── gemini-3.5-flash/
@@ -34,9 +33,10 @@ MCP-SIM-LLM-evaluation/
     ├── agents/
     ├── results/
     └── main.py
+```
 
 ## Riferimento
 Park, D., Moon, H., & Ryu, S. (2026). A self-correcting multi-agent LLM
 framework for language-based physics simulation and explanation.
-npj Artificial Intelligence, 2(1), 10.
+*npj Artificial Intelligence*, 2(1), 10.
 https://doi.org/10.1038/s44387-025-00057-z
