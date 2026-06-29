@@ -12,7 +12,7 @@
 
 ## Struttura
 ```
-MCP-SIM-LLM-evaluation/
+MCP-SIM-LLM-Evaluation/
 ├── tasks/
 ├── gemini-3.5-flash/
 │   ├── agents/
