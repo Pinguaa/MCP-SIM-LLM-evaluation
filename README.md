@@ -1,6 +1,4 @@
-# MCP-SIM-LLM-evaluation
-
-*Valutazione dell'uso di Large Language Models per la generazione di codici termo-fluidodinamici*
+# Valutazione dell'uso di Large Language Models per la generazione di codici termo-fluidodinamici
 
 ## Modelli valutati
 - Gemini 3.5 Flash
@@ -11,7 +9,6 @@
 ## Ambiente
 - FEniCS Legacy (dolfin 2019.1.0)
 - Python 3.9
-- Miniforge3 / conda
 
 ## Struttura
 ```
