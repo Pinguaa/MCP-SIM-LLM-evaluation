@@ -1,0 +1,1 @@
+Use a 3D complex geometry and simulate steady-state heat diffusion. Some boundaries are heated. Use isotropic material.

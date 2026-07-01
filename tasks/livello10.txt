@@ -1,0 +1,1 @@
+Simulate steady-state nonlinear coupled thermoelectric generation in a 2D rectangular domain applying Dirichlet boundary conditions T(x=0)=100, T(x=L)=0, V(x=0)=0 and Neumann current flux conditions at x=L.

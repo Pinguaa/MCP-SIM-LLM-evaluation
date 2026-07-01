@@ -1,0 +1,1 @@
+Simulate 2D heat transfer in a square plate. Left: 80°C, right: 20°C, top: 50°C, bottom: insulated. Use Thermal conductivity 1.5.

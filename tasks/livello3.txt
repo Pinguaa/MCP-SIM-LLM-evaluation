@@ -1,0 +1,1 @@
+Simulate steady-state 2D heat conduction in a square plate. Left wall: 100°C, right wall: 0°C. Top and bottom: insulated. Thermal conductivity = 1.0.

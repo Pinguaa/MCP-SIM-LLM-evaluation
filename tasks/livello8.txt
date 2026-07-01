@@ -1,0 +1,1 @@
+Use a circular dolfine STL geometry and perform compression analysis using increasing Neumann load.

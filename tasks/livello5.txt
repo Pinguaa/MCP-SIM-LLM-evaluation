@@ -1,0 +1,1 @@
+Solve incompressible Navier-Stokes flow in a long rectangular pipe. Inlet velocity 1.0, outlet pressure zero.

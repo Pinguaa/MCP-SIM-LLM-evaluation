@@ -1,0 +1,1 @@
+Simulate piezoelectric deformation under voltage loading on boundary. Material is a standard piezo-ceramic.

@@ -1,0 +1,1 @@
+Simulate rectangular domain (width 10, height 5) with a central hole. Apply 1.0 upward displacement at the right, left is fixed. Use E=1000, ν=0.3.

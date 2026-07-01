@@ -1,0 +1,1 @@
+Simulate 2D linear elasticity in a 5x5 square domain with a central circular hole (r=2). Apply 1.0 upward displacement at the top, bottom is fixed. Use E=1000, ν=0.3.

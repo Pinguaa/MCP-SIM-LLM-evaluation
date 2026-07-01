@@ -1,0 +1,1 @@
+Simulate crack initiation and growth in an elastic material with crack-tip using a phase-field model. Apply vertical loading at the top.
